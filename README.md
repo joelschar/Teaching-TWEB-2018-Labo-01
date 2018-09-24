@@ -1,7 +1,7 @@
 # Labo 01 - implementation
 The website is working properly on firefox. Other navigators where not validated.
 
-Web site is hosted at ![joel.schar.blue](joel.schar.blue)
+Web site is hosted at [http://joel.schar.blue](http://joel.schar.blue)
 
 # Labo 01 - From mockup to HTML
 
